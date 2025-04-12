@@ -93,4 +93,4 @@ This dataset focuses on the status of shipments. It's useful for tracking the pr
 - **`Current_Status`**: Current status of the shipment (e.g., DELIVERED, NOT DELIVERED)
 - **`Sent_date`**: Date when the shipment was sent
 - **`Delivery_date`**: Date when the shipment was delivered (if applicable)
-- 
+  
